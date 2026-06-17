@@ -42,10 +42,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-khan-rind&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saad-khan-rind&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00" alt="GitHub Streak" />
-</div>
-
 <br/>
 
 ### 🐍 `~/activity/contribution_matrix`
