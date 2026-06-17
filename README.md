@@ -8,14 +8,6 @@
   <a href="mailto:khansaad45678900@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saad-khan-rind&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="55%" valign="top">
