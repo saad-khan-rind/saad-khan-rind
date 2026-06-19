@@ -22,7 +22,7 @@
 > Current Roles   : Lead AI Architect @ Automateley 
                     M.Sc. AI Engineering @ Uni Passau
 > Focus Area      : LLM Integrations, NLP, RAG Pipelines
-> Open Source     : 245+ Stars on GitHub
+> Open Source     : 250+ Stars on GitHub
 > Recent Milestone: Architected a multi-agent AI system 
                     for autonomous compliance & drafting
       </pre>
