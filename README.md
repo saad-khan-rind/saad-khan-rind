@@ -57,7 +57,7 @@
 
 <div align="center">
   <a href="https://github.com/saad-khan-rind/NOSAtmosphereEffect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saad-khan-rind&repo=NOSAtmosphereEffect&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Atmo Engine Open Source" width="50%" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=saad-khan-rind&repo=NOSAtmosphereEffect&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Atmo Engine Open Source" width="50%" />
   </a>
 </div>
 
@@ -66,8 +66,8 @@
 ### 📊 `~/analytics/telemetry`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saad-khan-rind&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00FF00" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-khan-rind&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=saad-khan-rind&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00FF00" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saad-khan-rind&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
