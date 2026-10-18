@@ -8,12 +8,6 @@
   <a href="mailto:khansaad45678900@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
 </div>
 
-<br/>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saad-khan-rind&color=00FF00&style=for-the-badge&label=SYSTEM+HITS" alt="Profile Views" />
-</div>
-<br/>
-
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="55%" valign="top">
